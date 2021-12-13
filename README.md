@@ -1,2 +1,5 @@
-# task-squares
-Squares -task for learning document events
+# Squares
+task for learning document events
+
+# Пёстрый DOM
+Реализуйте в файле src/index.js следующую логику - при клике по любому квадрату с классом entry он и все квадраты в которые он вложен изменяют свой цвет. Изменение цвета осуществляется путём изменения css класса по логике "red" -> "green" -> "blue" -> "purple" -> "red" и далее по кругу (сохраняя класс entry конечно).
